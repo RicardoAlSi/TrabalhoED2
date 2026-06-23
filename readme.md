@@ -80,7 +80,8 @@ A API do Portal da Transparência exige cadastro prévio.
 4. Copie a chave recebida e configure no arquivo `.env`:
 
 ```env
-PORTAL_TRANSPARENCIA_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxx
+API_KEY=xxxxxxxxxxxxxxxxxxxxxxxx
+KEY=chave-api-dados
 ```
 
 ---
